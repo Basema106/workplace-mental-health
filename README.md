@@ -1,1 +1,4 @@
 # workplace-mental-health
+The "Analyzing the Impact of Workplace Factors on Employee Mental Health" project explores how various occupational and personal factors contribute to mental health challenges. The dataset includes demographic (Gender, Country, Occupation), psychological (Growing Stress, Coping Struggles, Mood Swings, Mental Health History), and behavioral factors (Days Indoors, Work Interest, Changes in Habits) that may influence mental well-being. This study aims to identify trends, assess statistical relationships, and establish a baseline solution before implementing predictive models.
+
+For Milestone 1, we apply statistical methods such as descriptive analysis, hypothesis testing, bootstrapping, and non-parametric estimation to investigate potential correlations between work-related stressors and mental health.
