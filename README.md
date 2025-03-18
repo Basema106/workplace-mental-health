@@ -7,7 +7,7 @@ This baseline analysis will inform future improvements in Milestone 2, where dee
 
 Methodology
 
-To analyze the dataset, I applied several statistical tests:
+To analyze the dataset, I applied several Hypothesis Testing tests:
 
 1-Chi-Square Test → To examine associations between categorical workplace factors and mental health indicators.
 2-Mann-Whitney U Test → To compare distributions of coping struggles and social weakness between employees who received mental health treatment and those who did not.
@@ -16,4 +16,5 @@ To analyze the dataset, I applied several statistical tests:
 Data set:
 https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset?resource=download
 
-Refrences :
+Google colab Notebook
+https://colab.research.google.com/drive/1TcIjy1s0tJhxBMdWMWzB7evmRa_IFlVU?usp=share_link
