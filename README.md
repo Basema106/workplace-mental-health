@@ -16,11 +16,17 @@ Google colab Notebook:
 https://colab.research.google.com/drive/108c4uiDmPpRBISg1fhspyVPRlooBZnUk?usp=sharing
 
 List of required packages:
+
 streamlit
+
 tensorflow
+
 scikit-learn
+
 joblib
+
 pandas
+
 numpy
 
 
