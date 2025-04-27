@@ -30,6 +30,7 @@ pandas
 
 numpy
 
+((Available under requiremnts.txt))
 
 Instructions on how to run the code:
 
