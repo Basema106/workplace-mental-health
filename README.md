@@ -1,20 +1,26 @@
 # workplace-mental-health
-The "Analyzing the Impact of Workplace Factors on Employee Mental Health" project explores how various occupational and personal factors contribute to mental health challenges. The dataset includes demographic (Gender, Country, Occupation), psychological (Growing Stress, Coping Struggles, Mood Swings, Mental Health History), and behavioral factors (Days Indoors, Work Interest, Changes in Habits) that may influence mental well-being. This study aims to identify trends, assess statistical relationships, and establish a baseline solution before implementing predictive models.
+The "Analyzing the Impact of Workplace Factors on Employee Mental Health" project explores how various occupational and personal factors contribute to mental health challenges. The dataset includes demographic (Gender, Country, Occupation), psychological (Growing Stress, Coping Struggles, Mood Swings, Mental Health History), and behavioral factors (Days Indoors, Work Interest, Changes in Habits) that may influence mental well-being. 
 
-For Milestone 1, we apply statistical methods such as descriptive analysis, hypothesis testing, bootstrapping, and non-parametric estimation to investigate potential correlations between work-related stressors and mental health.
+Here I built a machine learning model to predict whether an individual is likely to seek mental health treatment based on personal and workplace factors.
+It uses an Artificial Neural Network (ANN) trained on a mental health survey dataset.
+I also did a Streamlit web application that allows users to input their information and receive a prediction result in real time.
 
-This baseline analysis will inform future improvements in Milestone 2, where deeper statistical modeling or alternative methodologies will be explored.
-
-Methodology
-
-To analyze the dataset, I applied several Hypothesis Testing tests:
-
-1-Chi-Square Test → To examine associations between categorical workplace factors and mental health indicators.
-2-Mann-Whitney U Test → To compare distributions of coping struggles and social weakness between employees who received mental health treatment and those who did not.
-3-Spearman Correlation → To measure relationships between stress levels, time spent indoors, and social behavior.
+#About Dataset
+This dataset appears to contain a variety of features related to text analysis, sentiment analysis, and psychological indicators, likely derived from posts or text data. Some features include readability indices such as Automated Readability Index (ARI), Coleman Liau Index, and Flesch-Kincaid Grade Level, as well as sentiment analysis scores like sentiment compound, negative, neutral, and positive scores. Additionally, there are features related to psychological aspects such as economic stress, isolation, substance use, and domestic stress. The dataset seems to cover a wide range of linguistic, psychological, and behavioural attributes, potentially suitable for analyzing mental health-related topics in online communities or text data.
 
 Data set:
 https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset?resource=download
 
-Google colab Notebook
-https://colab.research.google.com/drive/1TcIjy1s0tJhxBMdWMWzB7evmRa_IFlVU?usp=share_link
+Google colab Notebook:
+https://colab.research.google.com/drive/108c4uiDmPpRBISg1fhspyVPRlooBZnUk?usp=sharing
+
+List of required packages:
+streamlit
+tensorflow
+scikit-learn
+joblib
+pandas
+numpy
+
+
+Instructions on how to run the code:
