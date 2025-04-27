@@ -1,4 +1,5 @@
 # workplace-mental-health
+
 The "Analyzing the Impact of Workplace Factors on Employee Mental Health" project explores how various occupational and personal factors contribute to mental health challenges. The dataset includes demographic (Gender, Country, Occupation), psychological (Growing Stress, Coping Struggles, Mood Swings, Mental Health History), and behavioral factors (Days Indoors, Work Interest, Changes in Habits) that may influence mental well-being. 
 
 Here I built a machine learning model to predict whether an individual is likely to seek mental health treatment based on personal and workplace factors.
