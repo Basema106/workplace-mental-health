@@ -31,3 +31,13 @@ numpy
 
 
 Instructions on how to run the code:
+
+1- download the Data and Code folder; (JarrarBasema)
+
+2-Navigate to JarrarBasema
+
+3-Read the readme_data 
+
+4-Navigate to StreamLit folder in JarrarBasema folder.
+
+5- run ** streamlit run app.py **
