@@ -5,7 +5,8 @@ Here I built a machine learning model to predict whether an individual is likely
 It uses an Artificial Neural Network (ANN) trained on a mental health survey dataset.
 I also did a Streamlit web application that allows users to input their information and receive a prediction result in real time.
 
-#About Dataset
+About Dataset:
+
 This dataset appears to contain a variety of features related to text analysis, sentiment analysis, and psychological indicators, likely derived from posts or text data. Some features include readability indices such as Automated Readability Index (ARI), Coleman Liau Index, and Flesch-Kincaid Grade Level, as well as sentiment analysis scores like sentiment compound, negative, neutral, and positive scores. Additionally, there are features related to psychological aspects such as economic stress, isolation, substance use, and domestic stress. The dataset seems to cover a wide range of linguistic, psychological, and behavioural attributes, potentially suitable for analyzing mental health-related topics in online communities or text data.
 
 Data set:
