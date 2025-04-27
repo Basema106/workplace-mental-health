@@ -18,28 +18,22 @@ https://colab.research.google.com/drive/108c4uiDmPpRBISg1fhspyVPRlooBZnUk?usp=sh
 
 List of required packages:
 
-streamlit
+Available under requiremnts.txt
 
-tensorflow
-
-scikit-learn
-
-joblib
-
-pandas
-
-numpy
-
-((Available under requiremnts.txt))
 
 Instructions on how to run the code:
 
-1- download the Data and Code folder; (JarrarBasema)
+1-How to run the work_mental.py model:
 
-2-Navigate to JarrarBasema
+(Optional) Retrain the Model:
 
-3-Read the readme_data 
+If you wish to retrain the model from scratch, you can run:
 
-4-Navigate to StreamLit folder in JarrarBasema folder.
+```bash
+python work_mental.py
 
-5- run ** streamlit run app.py **
+make sure that all the required packages are downloaded.
+
+2-How to run the StreamLit app:
+
+download the StreamLit folder from JarrarBasema folder, then cd JarrarBasema/StreamLit , then streamlit run app.py. 
