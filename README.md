@@ -29,7 +29,7 @@ Instructions on how to run the code:
 
 If you wish to retrain the model from scratch, you can run:
 
-```bash
+
 python work_mental.py
 
 make sure that all the required packages are downloaded.
